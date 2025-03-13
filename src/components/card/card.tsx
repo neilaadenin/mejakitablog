@@ -101,6 +101,9 @@ export default function RecommendationSection() {
         <button className="bg-gradient-to-b from-[#E36559] to-[#C34141] text-white px-8 py-3 rounded-xl text-lg font-semibold hover:opacity-90 transition">
           Lihat Semua
         </button>
+        {/* <button>
+          Lihat Aja
+        </button> */}
       </div>
     </section>
   );
